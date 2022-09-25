@@ -62,6 +62,7 @@ class PocketBaseWrapper {
   }
 
   dispose() async {
+    if (process == null) return true;
     final result = process!.kill();
     // process = null;
     return result;
