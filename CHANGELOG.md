@@ -1,3 +1,8 @@
+## 0.0.4
+
+- Updated pubspec description
+- Created basic documentation
+
 ## 0.0.3
 
 - Updated readme
